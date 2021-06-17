@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/UnDuhDuhSea/phils-farm-market/static/css/main.c1b4c661.chunk.css",
+    "main.js": "/UnDuhDuhSea/phils-farm-market/static/js/main.29c39c32.chunk.js",
+    "main.js.map": "/UnDuhDuhSea/phils-farm-market/static/js/main.29c39c32.chunk.js.map",
+    "runtime-main.js": "/UnDuhDuhSea/phils-farm-market/static/js/runtime-main.bb295e9f.js",
+    "runtime-main.js.map": "/UnDuhDuhSea/phils-farm-market/static/js/runtime-main.bb295e9f.js.map",
+    "static/css/2.47f28a85.chunk.css": "/UnDuhDuhSea/phils-farm-market/static/css/2.47f28a85.chunk.css",
+    "static/js/2.2c4b8016.chunk.js": "/UnDuhDuhSea/phils-farm-market/static/js/2.2c4b8016.chunk.js",
+    "static/js/2.2c4b8016.chunk.js.map": "/UnDuhDuhSea/phils-farm-market/static/js/2.2c4b8016.chunk.js.map",
+    "index.html": "/UnDuhDuhSea/phils-farm-market/index.html",
+    "static/css/2.47f28a85.chunk.css.map": "/UnDuhDuhSea/phils-farm-market/static/css/2.47f28a85.chunk.css.map",
+    "static/css/main.c1b4c661.chunk.css.map": "/UnDuhDuhSea/phils-farm-market/static/css/main.c1b4c661.chunk.css.map",
+    "static/js/2.2c4b8016.chunk.js.LICENSE.txt": "/UnDuhDuhSea/phils-farm-market/static/js/2.2c4b8016.chunk.js.LICENSE.txt",
+    "static/media/IMG_7033.6c0e8cdc.jpeg": "/UnDuhDuhSea/phils-farm-market/static/media/IMG_7033.6c0e8cdc.jpeg",
+    "static/media/IMG_7247.853a496d.jpeg": "/UnDuhDuhSea/phils-farm-market/static/media/IMG_7247.853a496d.jpeg",
+    "static/media/IMG_7376.ef0e3ce1.jpeg": "/UnDuhDuhSea/phils-farm-market/static/media/IMG_7376.ef0e3ce1.jpeg",
+    "static/media/IMG_7420.b48f2ccb.jpeg": "/UnDuhDuhSea/phils-farm-market/static/media/IMG_7420.b48f2ccb.jpeg",
+    "static/media/IMG_7917.ce09f9b0.jpeg": "/UnDuhDuhSea/phils-farm-market/static/media/IMG_7917.ce09f9b0.jpeg",
+    "static/media/IMG_8127.56cf01c5.jpeg": "/UnDuhDuhSea/phils-farm-market/static/media/IMG_8127.56cf01c5.jpeg",
+    "static/media/IMG_8578.8bd5bbc4.png": "/UnDuhDuhSea/phils-farm-market/static/media/IMG_8578.8bd5bbc4.png",
+    "static/media/blackberry.883a8564.png": "/UnDuhDuhSea/phils-farm-market/static/media/blackberry.883a8564.png",
+    "static/media/blueberries.630fd25c.png": "/UnDuhDuhSea/phils-farm-market/static/media/blueberries.630fd25c.png",
+    "static/media/philsHeroIcon.c91fb1eb.png": "/UnDuhDuhSea/phils-farm-market/static/media/philsHeroIcon.c91fb1eb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb295e9f.js",
+    "static/css/2.47f28a85.chunk.css",
+    "static/js/2.2c4b8016.chunk.js",
+    "static/css/main.c1b4c661.chunk.css",
+    "static/js/main.29c39c32.chunk.js"
+  ]
+}
